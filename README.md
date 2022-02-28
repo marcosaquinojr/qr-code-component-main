@@ -11,8 +11,7 @@ The challenge was to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://qrcode-generator-brown.vercel.app/)
 
 ## My process
 
