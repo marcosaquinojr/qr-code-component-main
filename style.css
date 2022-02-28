@@ -62,9 +62,10 @@ body{
     border: 0.1rem solid var(--Grayish-blue);
 }
 .box__button{
-    height: 1.5rem;
-    padding: 1.25rem;
+    width: 25%;
+    padding: 0.800rem;
     border: none none var(--Light-gray);
+    font-family: "Outfit", sans-serif;
     border-radius: 5px;
     transition: background-color 0.3s ease-in-out;
     margin-bottom: 2rem;
@@ -72,9 +73,6 @@ body{
 }
 .box__button:hover{
     background-color: var(--Grayish-blue);
-}
-.box__buttonText{
-    transform: translateY(-50%);
 }
 
 @media (min-width: 500px){

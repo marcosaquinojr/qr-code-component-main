@@ -20,6 +20,7 @@ The challenge was to build out this QR code component and get it looking as clos
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- ARIA
 - JavaScript
 - [API Google](https://styled-components.com/) - to generate the qr codes
 
