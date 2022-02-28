@@ -38,6 +38,7 @@ body{
     display: flex;
     justify-content: center;
     margin-bottom: 1rem;
+    border-radius: 2rem;
 }
 .box__titulo{
     color: var(--Dark-blue);
