@@ -22,7 +22,7 @@ The challenge was to build out this QR code component and get it looking as clos
 - Flexbox
 - ARIA
 - JavaScript
-- [API Google](https://styled-components.com/) - to generate the qr codes
+- [API Google](https://developers.google.com/chart/infographics/docs/qr_codes) - to generate the qr codes
 
 
 ### What I learned
