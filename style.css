@@ -68,6 +68,7 @@ body{
 .box__button{
     width: 25%;
     padding: 0.800rem;
+    overflow: auto;
     border: none none var(--Light-gray);
     font-family: "Outfit", sans-serif;
     border-radius: 5px;
