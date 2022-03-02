@@ -66,7 +66,7 @@ body{
     opacity: 50%;
   }
 .box__button{
-    width: 25%;
+    width: 30%;
     padding: 0.800rem;
     box-sizing: border-box;
     border: none none var(--Light-gray);
