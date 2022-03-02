@@ -14,8 +14,8 @@ function generator ()  {
 }
 async function download(){
 	const image = await fetch(qrcode)
-	const imageBlog = await image.blob()
-	const imageURL = URL.createObjectURL(imageBlog)
+	const imageBlob = await image.blob()
+	const imageURL = URL.createObjectURL(imageBlob)
 
 	const a = document.createElement('a');
   	a.href = imageURL;
