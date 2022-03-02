@@ -9,11 +9,9 @@ function generator ()  {
 		swal("Prontinho!", "Seu QR Code foi gerado!", "success");
 		document.getElementById("download").disabled = false;
 	}else{
-		
 		swal("Digite um link para gerar o QR Code!");
 	}
 }
-
 async function download(){
 	const image = await fetch(qrcode)
 	const imageBlog = await image.blob()
@@ -26,7 +24,5 @@ async function download(){
   	document.body.appendChild(a);
   	a.click();
   	document.body.removeChild(a);
-	location.reload();
-	
-	  
+	location.reload(); 
 }
